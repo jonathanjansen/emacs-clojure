@@ -49,9 +49,10 @@
  ;; If you edit it by hand, you could mess it up, so be careful.
  ;; Your init file should contain only one such instance.
  ;; If there is more than one, they won't work right.
+ '(coffee-tab-width 2)
  '(package-selected-packages
    (quote
-    (magit tagedit rainbow-delimiters projectile ido-completing-read+ cider exec-path-from-shelL smex exec-path-from-shell))))
+    (treemacs magit tagedit rainbow-delimiters projectile ido-completing-read+ cider exec-path-from-shelL smex exec-path-from-shell))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.

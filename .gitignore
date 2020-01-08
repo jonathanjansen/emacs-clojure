@@ -14,3 +14,5 @@ archive-contents
 *~
 /elpa
 .DS_Store
+history
+lastdir
